@@ -1,2 +1,2 @@
 # Towers of Hanoi
-<button ref="https://github.com/alex-epp/TowersOfHanoi/releases/latest">Latest</button>
+<a href="https://github.com/alex-epp/TowersOfHanoi/releases/latest" class="btn">Latest</a>

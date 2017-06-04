@@ -37,4 +37,5 @@ ehthumbs.db
 # ====== #
 # Custom #
 # ====== #
-[Ll]inux_[Bb]uild
+*_[Bb]uild
+*_[Bb]uild.*

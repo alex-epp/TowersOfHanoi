@@ -68,11 +68,6 @@ public class main : MonoBehaviour
 	// Use this for initialization
 	void Start ()
 	{
-		if (PlayerPrefs.HasKey ("NumRings"))
-			torusCount = Mathf.Max (1, PlayerPrefs.GetInt ("NumRings"));
-		else
-			PlayerPrefs.SetInt ("NumRings", torusCount);
-
 		bottoms = new List<Vector3> ();
 		tops = new List<Vector3> ();
 		foreach (Transform t in towers)
